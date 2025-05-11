@@ -1,0 +1,19 @@
+{
+  "name": "mcp-copy-paste",
+  "version": "1.0.0",
+  "description": "An MCP server that copies and pastes text only",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && mkdir -p build && cp -r dist/* build/",
+    "start": "node build/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.18.0",
+    "typescript": "^5.2.2"
+  }
+}
