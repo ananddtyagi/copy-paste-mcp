@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides a tool for extracting specific lines from text content.
 
+<a href="https://glama.ai/mcp/servers/@ananddtyagi/copy-paste-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@ananddtyagi/copy-paste-mcp/badge" alt="Copy-Paste MCP server" />
+</a>
+
 ## Features
 
 - Simple tool to extract specific line ranges from any text content
